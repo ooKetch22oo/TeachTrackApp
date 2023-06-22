@@ -7,7 +7,10 @@ Based on analysis of the phonetic appeal and memorability of the five name optio
 Color Scheme:
 
 Primary Color: Blue (#0077c2)
-Secondary Colors: Green (#8bc34a), Orange (#ff9800), and Grey (#9e9e9e)
+Secondary Colors: Green (#8bc34a), Orange (#FDB06B), and Grey (#9e9e9e)
+Tertiary Colors:
+Quaternary Colors:
+
 Typography:
 
 Logo Font: Open Sans Bold
